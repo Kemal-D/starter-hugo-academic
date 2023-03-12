@@ -38,7 +38,7 @@ sections:
       items:
         - name: Python
           description: 90%
-          icon: python
+          icon: 
           icon_pack: fab
         - name: Statistics
           description: 90%
