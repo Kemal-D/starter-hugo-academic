@@ -63,7 +63,7 @@ sections:
         - title: Freelance Data Analyst
           company: Statica
           company_url: ''
-          company_logo: statica
+          company_logo: 
           location: Nicosia
           date_start: '2021'
           date_end: '2023'
@@ -76,7 +76,7 @@ sections:
         - title: Market Intelligence Analyst
           company: Vesper
           company_url: ''
-          company_logo: vesper
+          company_logo: 
           location: Amsterdam
           date_start: '2021'
           date_end: '2023'
