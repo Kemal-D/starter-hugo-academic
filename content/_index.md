@@ -46,7 +46,7 @@ sections:
           icon_pack: fas
         - name: GYM
           description: 200%
-          icon: gym
+          icon: dumbbell
           icon_pack: fas
   - block: experience
     content:
