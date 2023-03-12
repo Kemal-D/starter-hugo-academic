@@ -62,7 +62,7 @@ sections:
       items:
         - title: Freelance Data Analyst
           company: Statica
-          company_url: https://staticacy.com/
+          company_url: 'https://staticacy.com/'
           company_logo: statica
           location: Cyprus
           date_start: '2021'
