@@ -44,9 +44,9 @@ sections:
           description: 90%
           icon: chart-line
           icon_pack: fas
-        - name: gym
+        - name: GYM
           description: 100%
-          icon: camera-retro
+          icon: gym
           icon_pack: fas
   - block: experience
     content:
@@ -80,8 +80,7 @@ sections:
           location: Amsterdam
           date_start: '2021'
           date_end: '2023'
-          description: 
-          • Conducted extensive market research to identify key trends and opportunities, as well as competitive analysis to inform business strategies and decision-making.
+          description: • Conducted extensive market research to identify key trends and opportunities, as well as competitive analysis to inform business strategies and decision-making.
           • Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics, to provide insights into large datasets.
           • Conducted data research and collection through primary (interviews) and secondary research, and used the findings to develop insights and recommendations for the business.
     design:
