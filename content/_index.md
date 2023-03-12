@@ -38,15 +38,15 @@ sections:
       items:
         - name: Python
           description: 90%
-          icon: python
+          icon: gym
           icon_pack: fab
         - name: Statistics
-          description: 90%
+          description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: GYM
-          description: 100%
-          icon: gym
+        - name: Photography
+          description: 10%
+          icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
@@ -60,29 +60,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Freelance Data Analyst
-          company: Statica
-          company_url: 'https://staticacy.com/'
-          company_logo: statica
-          location: Cyprus
-          date_start: '2021'
-          date_end: '2023'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Data Collection and Analysis
-              * Visualisation
-              * Consultancy
-        - title: Market Intelligence Analyst
-          company: Vesper
-          company_url: 'https://www.vespertool.com/'
-          company_logo: vesper
-          location: Amsterdam
-          date_start: '2021'
-          date_end: '2023'
-          description: • Conducted extensive market research to identify key trends and opportunities, as well as competitive analysis to inform business strategies and decision-making.
-          • Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics, to provide insights into large datasets.
-          • Conducted data research and collection through primary (interviews) and secondary research, and used the findings to develop insights and recommendations for the business.
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
