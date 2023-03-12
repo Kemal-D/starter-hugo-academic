@@ -38,15 +38,15 @@ sections:
       items:
         - name: Python
           description: 90%
-          icon: gym
+          icon: python
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: 90%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: GYM
+          description: 200%
+          icon: gym
           icon_pack: fas
   - block: experience
     content:
@@ -60,27 +60,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Freelance Data Analyst
+          company: Statica
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: statica
+          location: Nicosia
+          date_start: '2021'
+          date_end: '2023'
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Market Intelligence Analyst
+          company: Vesper
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: vesper
+          location: Amsterdam
+          date_start: '2021'
+          date_end: '2023'
+          description: Vesper is an independent commodity intelligence platform.
+• Conducted extensive market research to identify key trends and opportunities, as well as competitive analysis to inform business strategies and decision-making.
+• Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics, to provide insights into large datasets.
+• Conducted data research and collection through primary (interviews) and secondary research, and used the findings to develop insights and recommendations for the business.
     design:
       columns: '2'
   - block: accomplishments
