@@ -76,16 +76,16 @@ sections:
         - title: Market Intelligence Analyst
           company: Vesper
           company_url: 'https://www.vespertool.com/'
-          company_logo: org-x
-          location: California
+          company_logo: vesper
+          location: Amsterdam
           date_start: '2021-12-01'
           date_end: '2023-01-31'
           description: |2-
               Responsibilities include:
 
-              * Data Analysis
-              * Data Visualisations
-              * Research
+              * Market research to identify key trends and opportunities
+              * Competitive analysis to inform business strategies and decision-making
+              * Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics
     design:
       columns: '2'
   - block: accomplishments
