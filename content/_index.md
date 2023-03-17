@@ -73,14 +73,20 @@ sections:
               * Data Analysis
               * Data Visualisations
               * Research
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Market Intelligence Analyst
+          company: Vesper
+          company_url: 'https://www.vespertool.com/'
           company_logo: org-x
           location: California
           date_start: '2021-12-01'
           date_end: '2023-01-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+          Vesper is an independent commodity intelligence platform.
+          
+              Responsibilities include:
+
+              *Market research to identify key trends and opportunities
+
     design:
       columns: '2'
   - block: accomplishments
