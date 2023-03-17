@@ -76,7 +76,7 @@ sections:
         - title: Market Intelligence Analyst
           company: Vesper
           company_url: 'https://www.vespertool.com/'
-          company_logo: vesper
+          company_logo: 
           location: Amsterdam
           date_start: '01-01-2021'
           date_end: '30-01-2023'
