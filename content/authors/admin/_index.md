@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an experienced Market Intelligence Analyst(MIA) with two M.Sc. degrees in 'Spatial, Transport and Environmental Economics' and 'Economics'. During my work experience and studies I have acquired data analytics and machine learning experience. I have utilized k-means clustering for my thesis, worked on projects developing regression and classification algorithms to predict house prices, photo recognition, value of time etc.
+I am an experienced Market Intelligence Analyst(MIA) with two M.Sc. degrees in 'Spatial, Transport and Environmental Economics' and 'Economics'. During my work experience and studies I have acquired data analytics and machine learning experience. I have utilized k-means clustering for my thesis, worked on projects developing regression and classification algorithms to predict house prices, photo recognition, value of time and more.
 
 During my work as MIA, I have worked on research and analysis of market, product, competitor and customer. By utilizing primary and secondary data I have developed strategies, created segmentations and identified user needs.
 {style="text-align: justify;"}
