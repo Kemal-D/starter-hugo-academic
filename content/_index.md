@@ -86,6 +86,19 @@ sections:
               * Market research to identify key trends and opportunities
               * Competitive analysis to inform business strategies and decision-making
               * Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics
+        - title: Accounting Intern
+          company: Cyprus Cooperative Central Bank
+          company_url: 'https://www.koopbank.com/index.php?lang=tr'
+          company_logo: 
+          location: Cyprus
+          date_start: '2013-02-01'
+          date_end: '2013-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Was required to have extreme attention to detail for processing a wide range of financial assets and had clearance approval to work and access to sensitive information.
+              * Prepared accurate and timely processing of financial assets to customer accounts up to 300.000€ monthly
+              * Analysed 100s of transactions from various accounts daily to individually locate and diagnose abnormally high activities and report to higher management
     design:
       columns: '2'
   # - block: accomplishments
