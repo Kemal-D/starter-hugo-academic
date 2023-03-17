@@ -72,14 +72,14 @@ sections:
 
               * Data Analysis
               * Data Visualisations
-              * Research
-        - title: Market Intelligence Analyst
-          company: Vesper
-          company_url: 'https://www.vespertool.com/'
-          company_logo: vesper
-          location: Amsterdam
-          date_start: '2021'
-          date_end: '2023'
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016'
+          date_end: '2020'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
