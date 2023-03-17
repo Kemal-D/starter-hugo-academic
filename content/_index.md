@@ -80,7 +80,12 @@ sections:
           location: California
           date_start: '2021-12-01'
           date_end: '2023-01-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+
+              * Data Analysis
+              * Data Visualisations
+              * Research
     design:
       columns: '2'
   - block: accomplishments
