@@ -65,7 +65,7 @@ sections:
           company_url: 'https://staticacy.com/'
           company_logo: statica
           location: Cyprus
-          date_start: '2021'
+          date_start: '01-10-2021'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -78,8 +78,8 @@ sections:
           company_url: 'https://www.vespertool.com/'
           company_logo: vesper
           location: Amsterdam
-          date_start: '2021'
-          date_end: '2023'
+          date_start: '01-01-2021'
+          date_end: '30-01-2023'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
