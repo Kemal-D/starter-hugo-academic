@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/KemalDostel
+    link: 
     label: Follow me on Twitter
     display:
       header: true
