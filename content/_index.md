@@ -80,9 +80,9 @@ sections:
           location: Amsterdam
           date_start: '2021'
           date_end: '2023'
-          description: * Market research to identify key trends and opportunities
-* Competitive analysis to inform business strategies and decision-making
-* Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics
+          description: Market research to identify key trends and opportunities
+Competitive analysis to inform business strategies and decision-making
+Utilized Python for ad hoc tasks, including correlation analysis using descriptive and inferential statistics
     design:
       columns: '2'
   - block: accomplishments
