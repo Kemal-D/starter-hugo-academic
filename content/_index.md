@@ -80,13 +80,7 @@ sections:
           location: California
           date_start: '2021-12-01'
           date_end: '2023-01-31'
-          description: |2-
-          Vesper is an independent commodity intelligence platform.
-          
-              Responsibilities include:
-
-              *Market research to identify key trends and opportunities
-
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
