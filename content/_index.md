@@ -94,7 +94,7 @@ sections:
           date_start: '2013-02-01'
           date_end: '2013-08-31'
           description: |2-
-              Responsibilities include:
+              Job Description:
 
               * Was required to have extreme attention to detail for processing a wide range of financial assets and had clearance approval to work and access to sensitive information.
               * Prepared accurate and timely processing of financial assets to customer accounts up to 300.000€ monthly
