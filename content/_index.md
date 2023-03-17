@@ -65,21 +65,21 @@ sections:
           company_url: 'https://staticacy.com/'
           company_logo: statica
           location: Cyprus
-          date_start: '01-10-2021'
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
               * Data Analysis
               * Data Visualisations
-              * Research
-        - title: Market Intelligence Analyst
-          company: Vesper
-          company_url: 'https://www.vespertool.com/'
-          company_logo: 
-          location: Amsterdam
-          date_start: '01-01-2021'
-          date_end: '30-01-2023'
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
