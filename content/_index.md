@@ -65,21 +65,21 @@ sections:
           company_url: 'https://staticacy.com/'
           company_logo: statica
           location: Cyprus
-          date_start: '2021-01-01'
+          date_start: '2021-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
               * Data Analysis
               * Data Visualisations
-              * Deploying
+              * Research
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2021-12-01'
+          date_end: '2023-01-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
