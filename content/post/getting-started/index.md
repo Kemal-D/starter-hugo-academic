@@ -1,18 +1,18 @@
 ---
-title: Trial1
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Introductory Post
+subtitle: Welcome 👋 In this small post, i explain who am i, what is my specialty and what will i write about.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 In this small post, i explain who am i, what is my specialty and what will i write about.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-04-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-04-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,22 +23,21 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/1QCoQKKEq1M)'
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
-  - admin
-  - 吳恩達
+  - Kemal Dostel
 
 tags:
-  - Academic
-  - 开源
+  - Introduction
+  - About me
 
 categories:
-  - Demo
-  - 教程
+  - Bio
+  - Background
 ---
 
 ```python
@@ -48,63 +47,16 @@ print('hello')
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+Welcome to my portfolio website. In this post you can find more about me and what I plan to do about in this portfolio website. 
 
 ## Get Started
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+👉 My name is Kemal.
+💒 I am from Cyprus. 
+📚 My background is in Economics which includes a Bachelors degree and two master degrees. During my Masters in the Netherlands I specialized more on urban, environmental and transport side of economics. I explored the dynamics of economic growth, urban development, housing affordability, living and working environments, mobility, resource depletion and climate change. Due to my interest in data analytics, I took extracurricular courses in Advanced Machine Learning and Data Science. 
+💬 I started to my professional life in a commodity intelligence start up as a part-time Data Analyst in which later I moved to full time Market Intelligence Analyst.
+🐦 My interests lies in combining my economics and business knowledge with solving real world problems with the help of data and analytics. I am open and passionate about pursuing my professional life in the direction where i can utilize advances in data analytics to answer complex business and real world problems where I can make a difference.
 
-## Crowd-funded open-source software
+⏩ Moving forward, I will try to keep my blog post up to date about my endeavors. The posts will focus on both personal and professional passions of mine which are data analytics focused on variety of topics and more general easy going posts about food, travel and sports. 
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Thank you for reading this. I hope it gives you an idea about me
