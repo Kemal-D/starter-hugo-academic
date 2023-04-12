@@ -9,10 +9,10 @@ summary: Welcome! In this short post, I will explain who I am, what my specialti
 projects: []
 
 # Date published
-date: 
+date: '2023-04-01'
 
 # Date updated
-lastmod:
+lastmod: '2023-04-12'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/1QCoQKKEq1M)'
   focal_point: ''
   placement: 2
   preview_only: false
