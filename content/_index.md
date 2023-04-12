@@ -254,7 +254,6 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        #street: 450 Serra Mall
         city: Amsterdam
         country: Netherlands
         country_code: NL
