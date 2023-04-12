@@ -248,16 +248,16 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        
+        If you have any questions to me you can fill out the form below.
       # Contact (add or remove contact options as necessary)
       email: kemal-dostel@outlook.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
-      #address:
-        #street: 450 Serra Mall
+      address:
+        street: 450 Serra Mall
         city: Amsterdam
-        #region: CA
-        #postcode: '94305'
+        region: CA
+        postcode: '94305'
         country: Netherlands
         country_code: NL
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
