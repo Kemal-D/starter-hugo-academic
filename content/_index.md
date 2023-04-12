@@ -256,8 +256,6 @@ sections:
       address:
         #street: 450 Serra Mall
         city: Amsterdam
-        #region: CA
-        #postcode: '94305'
         country: Netherlands
         country_code: NL
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
